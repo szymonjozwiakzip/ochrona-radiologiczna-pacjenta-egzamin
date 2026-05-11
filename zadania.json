@@ -1,0 +1,1402 @@
+[
+    {
+        "index": 1,
+        "treść": "Promieniowanie rentgenowskie to:",
+        "odpowiedzi": {
+            "A": "fale elektromagnetyczne",
+            "B": "strumień rozpędzonych elektronów",
+            "C": "fale mechaniczne (zagęszczenia ośrodka)"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 2,
+        "treść": "Dawek granicznych nie stosuje się do:",
+        "odpowiedzi": {
+            "A": "kobiet w ciąży",
+            "B": "pracowników",
+            "C": "osób poddanych działaniu promieniowania jonizującego w celach medycznych"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 3,
+        "treść": "Testy specjalistyczne aparatury rentgenowskiej należy wykonywać:",
+        "odpowiedzi": {
+            "A": "co najmniej raz na 12 miesięcy",
+            "B": "raz na trzy lata",
+            "C": "wg uznania inspektora ochrony radiologicznej"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 4,
+        "treść": "Osłony ochronne służą do ochrony:",
+        "odpowiedzi": {
+            "A": "personelu pracowni rentgenowskiej i osób z ogółu populacji przebywających w pobliżu pracowni rtg",
+            "B": "narządów pacjentów, objętych badaniem rtg",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 5,
+        "treść": "Filtrację na lampie rentgenowskiej stosuje się w celu:",
+        "odpowiedzi": {
+            "A": "zmniejszenia poziomu natężenia oświetlenia obszaru przewidzianego do napromienienia",
+            "B": "zatrzymania nieprzydatnego w diagnostyce, a szkodliwego dla organizmu promieniowania miękkiego",
+            "C": "osłabienia promieniowania rozproszonego"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 6,
+        "treść": "Badanie rentgenowskie u osób poniżej 16. roku życia:",
+        "odpowiedzi": {
+            "A": "wykonuje się w obecności rodziców",
+            "B": "jest zabronione",
+            "C": "należy odnotować w książce zdrowia dziecka, a w przypadku niemowląt lub małych dzieci stosować unieruchomienie przy użyciu np. bobiksu"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 7,
+        "treść": "Jednostką dawki pochłoniętej w układzie SI jest:",
+        "odpowiedzi": {
+            "A": "kulomb na kilogram [C/kg]",
+            "B": "grej [Gy]",
+            "C": "siwert [Sv]"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 8,
+        "treść": "Bez skierowania mogą być wykonane badania z zastosowaniem promieniowania jonizującego:",
+        "odpowiedzi": {
+            "A": "nie można wykonywać badań bez skierowania",
+            "B": "stomatologiczne wewnątrzustne, badania przesiewowe, densytometryczne kości oraz w przypadku bezpośredniego zagrożenia życia",
+            "C": "tylko w przypadku bezpośredniego zagrożenia życia"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 9,
+        "treść": "Dawka skuteczna:",
+        "odpowiedzi": {
+            "A": "oznacza dawkę pochłoniętą, jaka powoduje nieodwracalne skutki w napromieniowanej tkance",
+            "B": "uwzględnia skutki fizyczne związane z pochłonięciem różnych rodzajów promieniowania",
+            "C": "uwzględnia różną wrażliwość narządów i tkanek na promieniowanie"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 10,
+        "treść": "Badania rentgenodiagnostyczne u kobiet w ciąży wykonuje się:",
+        "odpowiedzi": {
+            "A": "za pisemną zgodą pacjentki",
+            "B": "ograniczone są do niezbędnych przypadków",
+            "C": "ograniczone są do niezbędnych przypadków, jeżeli nie mogą być one wykonane po rozwiązaniu lub w celu ratowania życia"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 11,
+        "treść": "Aby zwiększyć przenikliwość promieniowania rentgenowskiego lampy należy:",
+        "odpowiedzi": {
+            "A": "zwiększyć iloczyn prądowo-czasowy",
+            "B": "zwiększyć napięcie",
+            "C": "zwiększyć czas ekspozycji"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 12,
+        "treść": "Medyczne procedury radiologiczne mogą wykonywać wyłącznie osoby o kwalifikacjach określonych:",
+        "odpowiedzi": {
+            "A": "w ustawie PRAWO ATOMOWE",
+            "B": "w rozporządzeniu Rady Ministrów",
+            "C": "w procedurach wzorcowych"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 13,
+        "treść": "Aby zwiększyć długość fali promieniowania rentgenowskiego należy:",
+        "odpowiedzi": {
+            "A": "zmniejszyć napięcie na lampie",
+            "B": "zwiększyć napięcie na lampie",
+            "C": "zwiększyć iloczyn prądowo-czasowy"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 14,
+        "treść": "Osłony na gonady powinny być wykonane z materiału:",
+        "odpowiedzi": {
+            "A": "delikatnego",
+            "B": "o równoważniku co najmniej 0.5 mm Pb",
+            "C": "o równoważniku co najmniej 1 mm Pb"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 15,
+        "treść": "Dawka graniczna promieniowania:",
+        "odpowiedzi": {
+            "A": "oznacza równocześnie dawkę bezpieczną",
+            "B": "nie jest tożsama z dawką bezpieczną",
+            "C": "stanowi dawkę bezpieczną ale tylko w odniesieniu do osób narażonych zawodowo"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 16,
+        "treść": "Przy leczeniu radiojodem pacjent powinien:",
+        "odpowiedzi": {
+            "A": "w okresie leczenia ograniczyć bliski kontakt z innymi nieleczonymi osobami, postępować zgodnie z otrzymaną instrukcją",
+            "B": "w okresie leczenia ograniczyć przygotowywanie posiłków",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 17,
+        "treść": "Badanie z zastosowaniem promieniowania jonizującego, jeżeli nie zostało ono uzasadnione medycznie:",
+        "odpowiedzi": {
+            "A": "jest niedopuszczalne",
+            "B": "może być wykonane na zasadzie jednostkowych przypadków - np. ekspozycja w celach medyczno-prawnych",
+            "C": "może być wykonane tylko za zgodą pacjenta"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 18,
+        "treść": "Dawka graniczna dotyczy:",
+        "odpowiedzi": {
+            "A": "populacji",
+            "B": "osób zawodowo narażonych na promieniowanie jonizujące",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 19,
+        "treść": "Zależność progowa charakterystyczna jest dla:",
+        "odpowiedzi": {
+            "A": "skutków stochastycznych",
+            "B": "skutków deterministycznych (niestochastycznych)",
+            "C": "z punktu widzenia klinicznego i patologicznego nie stwierdza się występowania zależności progowych"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 20,
+        "treść": "Przed promieniowaniem rentgenowskim należy stosować osłony z materiałów:",
+        "odpowiedzi": {
+            "A": "o dużej grubości",
+            "B": "o dużej gęstości",
+            "C": "naturalnych (ekologicznych)"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 21,
+        "treść": "Jednostką równoważnika dawki w układzie SI jest:",
+        "odpowiedzi": {
+            "A": "grej [Gy]",
+            "B": "siwert [Sv]",
+            "C": "bekerel [Bq]"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 22,
+        "treść": "Jakimi zasadami kieruje się lekarz zlecając badania diagnostyczne pacjenta z wykorzystaniem źródła promieniowania jonizującego?",
+        "odpowiedzi": {
+            "A": "dawka otrzymana przez pacjenta jest mniejsza od dawki granicznej dla osób zawodowo narażonych",
+            "B": "dawka otrzymana przez pacjenta nie może spowodować u niego uszczerbku zdrowotnego",
+            "C": "zysk kliniczny musi przewyższyć uszczerbek zdrowotny pacjenta"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 23,
+        "treść": "Największe narażenie personelu na promieniowanie jonizujące występuje w pracowni:",
+        "odpowiedzi": {
+            "A": "mammograficznej",
+            "B": "tomograficznej",
+            "C": "radiologii zabiegowej (interwencyjnej)"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 24,
+        "treść": "W trakcie określonych badań diagnostycznych większe zagrożenie dla pacjenta stwarza promieniowanie:",
+        "odpowiedzi": {
+            "A": "miękkie",
+            "B": "twarde",
+            "C": "rozproszone"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 25,
+        "treść": "Jeżeli w czasie wykonywania radiografii zachodzi konieczność podtrzymywania pacjenta, czynność tę wykonuje osoba, która:",
+        "odpowiedzi": {
+            "A": "ukończyła 18 lat, nie jest w ciąży, została wyposażona w osobiste osłony i poinstruowana",
+            "B": "ukończyła 18 lat i jest zdrowa",
+            "C": "posiada uprawnienia nadane przez inspektora ochrony radiologicznej"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 26,
+        "treść": "Promieniowanie alfa, to:",
+        "odpowiedzi": {
+            "A": "fotony",
+            "B": "jądra helu",
+            "C": "elektrony"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 27,
+        "treść": "Najbardziej niebezpieczne dla organizmu jest napromienienie:",
+        "odpowiedzi": {
+            "A": "komórek nerwowych",
+            "B": "DNA komórki",
+            "C": "limfocytów"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 28,
+        "treść": "Zmniejszenie ilości promieniowania rozproszonego w badanej tkance można uzyskać poprzez:",
+        "odpowiedzi": {
+            "A": "zastosowanie kratki przeciwrozproszeniowej",
+            "B": "zmniejszenie jej grubości przez ucisk",
+            "C": "zastosowanie dodatkowego filtra"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 29,
+        "treść": "Dawka graniczna dla pracowników wynosi:",
+        "odpowiedzi": {
+            "A": "3 mSv/rok",
+            "B": "6 mSv/rok",
+            "C": "20 mSv/rok"
+        },
+        "poprawna_odpowied_ź": "C"
+    },
+    {
+        "index": 30,
+        "treść": "Za przestrzeganie wymagań bezpieczeństwa jądrowego i ochrony radiologicznej w pracowni rtg odpowiedzialny jest:",
+        "odpowiedzi": {
+            "A": "kierownik jednostki organizacyjnej",
+            "B": "inspektor ochrony radiologicznej",
+            "C": "technik elektroradiologii"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 31,
+        "treść": "Do odległych skutków somatycznych zaliczamy:",
+        "odpowiedzi": {
+            "A": "zmętnienie soczewek i zaćmę, zahamowanie wzrostu i rozwoju, niepłodność",
+            "B": "aberracje chromosomowe w komórkach somatycznych, nowotwory złośliwe",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 32,
+        "treść": "'Małe dawki' w ochronie radiologicznej, to dawki mniejsze od:",
+        "odpowiedzi": {
+            "A": "10 mSv",
+            "B": "0.2 Sv",
+            "C": "1 Sv"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 33,
+        "treść": "W skali mikro promieniowanie rentgenowskie oddziałuje z materią poprzez:",
+        "odpowiedzi": {
+            "A": "efekt fotoelektryczny, efekt Comptona, rozpraszanie",
+            "B": "efekt fotoelektryczny, efekt Comptona, kreację pary elektron-pozyton",
+            "C": "pochłanianie, dyfrakcję i rozpad"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 34,
+        "treść": "Opinię dotyczącą zgody na udzielanie świadczeń z zakresu medycyny nuklearnej wydaje:",
+        "odpowiedzi": {
+            "A": "Konsultant Wojewódzki d/s Medycyny Nuklearnej",
+            "B": "Konsultant Wojewódzki d/s radiologii i diagnostyki obrazowej",
+            "C": "Państwowy Wojewódzki Inspektor Sanitarny"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 35,
+        "treść": "Do kategorii narażenia B zaliczamy pracowników narażonych na dawkę skuteczną:",
+        "odpowiedzi": {
+            "A": "do 1 mSv / rok",
+            "B": "do 6 mSv / rok",
+            "C": "do 20 mSv / rok"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 36,
+        "treść": "Do oceny obrazów mammograficznych należy używać negatoskopów o luminancji wyrażonej w kandelach na m²:",
+        "odpowiedzi": {
+            "A": "powyżej 100 cd/m²",
+            "B": "od 3 000 do 6 000 cd/m²",
+            "C": "dostosowanej do warunków oświetleniowych panujących w pomieszczeniu"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 37,
+        "treść": "Jaka dawka promieniowania może stwarzać ryzyko zdrowotne dla rozwoju płodu i zarodka?",
+        "odpowiedzi": {
+            "A": "0.1 mSv / rok",
+            "B": "1 mSv / rok",
+            "C": "każda, nawet najmniejsza dawka"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 38,
+        "treść": "W warunkach próżni natężenie promieniowania jonizującego w stosunku do odległości od źródła:",
+        "odpowiedzi": {
+            "A": "zmniejsza się proporcjonalnie do odległości",
+            "B": "pozostaje na niezmiennym poziomie",
+            "C": "zmniejsza się z kwadratem odległości"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 39,
+        "treść": "Do wczesnych skutków somatycznych zaliczamy:",
+        "odpowiedzi": {
+            "A": "recesywne mutacje genowe",
+            "B": "nowotwory złośliwe",
+            "C": "ostrą chorobę popromienną, miejscowe uszkodzenie skóry"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 40,
+        "treść": "Automatycznego wywoływania i utrwalania błon rtg można nie stosować:",
+        "odpowiedzi": {
+            "A": "w mammografii",
+            "B": "w cefalometrii",
+            "C": "w stomatologii do badań wewnątrzustnych"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 41,
+        "treść": "Zjawisko apoptozy to:",
+        "odpowiedzi": {
+            "A": "programowana śmierć komórki",
+            "B": "zwiększenie szybkości rekombinacji wolnych rodników przy wzroście temperatury ciała",
+            "C": "korzystny wpływ promieniowania jonizującego"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 42,
+        "treść": "Próg wielkości dawki oddziaływania promieniowania jonizującego występuje dla skutków:",
+        "odpowiedzi": {
+            "A": "deterministycznych",
+            "B": "niestochastycznych",
+            "C": "odpowiedzi A i B są tożsame i zarazem poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 43,
+        "treść": "Do somatycznych skutków promieniowania zaliczamy:",
+        "odpowiedzi": {
+            "A": "ostrą chorobę popromienną",
+            "B": "przewlekłą chorobę popromienną",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 44,
+        "treść": "Bezpośredni wpływ na wielkość dawki pochłoniętej przez pacjenta w trakcie badania rentgenodiagnostycznego mają decyzje podjęte przez:",
+        "odpowiedzi": {
+            "A": "kierownika pracowni rentgenowskiej",
+            "B": "inspektora ochrony radiologicznej",
+            "C": "lekarza zlecającego badanie i technika elektroradiologii"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 45,
+        "treść": "Podczas wykonywania badania rentgenodiagnostycznego w pomieszczeniu, w którym znajduje się aparat rtg, może przebywać wyłącznie:",
+        "odpowiedzi": {
+            "A": "pacjent",
+            "B": "pacjent oraz osoby, które wykonują czynności bezpośrednio związane z badaniem",
+            "C": "pacjent oraz technik elektroradiologii lub lekarz prowadzący"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 46,
+        "treść": "Badania diagnostyczne przy użyciu radiofarmaceutyków, można prowadzić w uzasadnionych przypadkach u kobiet w ciąży:",
+        "odpowiedzi": {
+            "A": "stosując małą aktywność izotopów i zapewniając zwiększoną podaż płynów",
+            "B": "uzyskując zgodę pacjentki",
+            "C": "stosując dozymetr indywidualny"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 47,
+        "treść": "Aberracje chromosomowe w komórkach rozrodczych należą do biologicznych skutków:",
+        "odpowiedzi": {
+            "A": "somatycznych wczesnych",
+            "B": "somatycznych odległych",
+            "C": "genetycznych"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 48,
+        "treść": "Stosowanie fluoroskopii jest dopuszczalne:",
+        "odpowiedzi": {
+            "A": "zawsze",
+            "B": "w przypadkach, w których ze względów diagnostycznych nie może być ona zastąpiona radiografią",
+            "C": "u osób powyżej 16. roku życia"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 49,
+        "treść": "Powierzchnia gabinetu rtg z diagnostycznym zestawem rentgenowskim powinna wynosić co najmniej:",
+        "odpowiedzi": {
+            "A": "8 m²",
+            "B": "15 m²",
+            "C": "25 m²"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 50,
+        "treść": "Opinię dotyczącą zgody na udzielanie świadczeń z zakresu diagnostyki obrazowej wydaje:",
+        "odpowiedzi": {
+            "A": "Minister Zdrowia",
+            "B": "Główny Inspektor Sanitarny",
+            "C": "Konsultant Wojewódzki d/s Radiologii i Diagnostyki Obrazowej"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 51,
+        "treść": "Badanie lub leczenie z zastosowaniem promieniowania jonizującego wymagające skierowania wykonuje się na podstawie:",
+        "odpowiedzi": {
+            "A": "ustnego polecenia lekarza kierującego na badanie",
+            "B": "pisemnego skierowania wystawionego przez osobę kierującą na badanie",
+            "C": "pisemnego skierowania Wydziału Zdrowia"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 52,
+        "treść": "Kliniczny audyt wewnętrzny należy przeprowadzać:",
+        "odpowiedzi": {
+            "A": "raz w miesiącu",
+            "B": "co najmniej raz na rok i w razie doraźnej potrzeby",
+            "C": "co najmniej raz na dwa lata"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 53,
+        "treść": "Procedury z zakresu radiologii zabiegowej wykonuje się u kobiet w okresie płodności wyłącznie:",
+        "odpowiedzi": {
+            "A": "za pisemną zgodą pacjentki",
+            "B": "po uzyskaniu negatywnego testu ciążowego przed zabiegiem lub jeżeli istnieją bezsporne okoliczności świadczące o niemożliwości zajścia pacjentki w ciążę",
+            "C": "na wyraźne żądanie pacjentki"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 54,
+        "treść": "Operator w radiologii zabiegowej powinien stosować do ochrony osobistej:",
+        "odpowiedzi": {
+            "A": "fartucha ochronnego",
+            "B": "fartucha ochronnego oraz w miarę możliwości okularów i rękawic ochronnych",
+            "C": "dozymetru półprzewodnikowego"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 55,
+        "treść": "Projekty badawcze z użyciem promieniowania jonizującego nie mogą być prowadzone z udziałem:",
+        "odpowiedzi": {
+            "A": "pacjentów",
+            "B": "kobiet w ciąży i młodocianych",
+            "C": "żołnierzy służby czynnej"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 56,
+        "treść": "Narażenie na promieniowanie jonizujące występuje w dziedzinach:",
+        "odpowiedzi": {
+            "A": "diagnostyka rentgenowska, radioterapia",
+            "B": "medycyna nuklearna",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 57,
+        "treść": "Za właściwe wykonanie badań z zastosowaniem promieniowania jonizującego odpowiada:",
+        "odpowiedzi": {
+            "A": "lekarz prowadzący pacjenta",
+            "B": "osoba wykonująca badanie",
+            "C": "inspektor ochrony radiologicznej"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 58,
+        "treść": "Średnica kolimatora w stomatologicznym aparacie rentgenowskim przeznaczonym do zdjęć wewnątrzustnych nie powinna przekraczać:",
+        "odpowiedzi": {
+            "A": "3 cm",
+            "B": "6 cm",
+            "C": "10 cm"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 59,
+        "treść": "Aktywność preparatu radiofarmaceutycznego:",
+        "odpowiedzi": {
+            "A": "nie może przekraczać poziomów referencyjnych",
+            "B": "może przekraczać poziomy referencyjne jedynie w przypadku istotnych wskazań klinicznych",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 60,
+        "treść": "Podczas wykonywania badań tomograficznych, szczególnie u osób poniżej 16 roku życia, należy stosować osłony osobiste na tarczycę, piersi, soczewki oczu i gonady, jeżeli znajdują się one od obszaru badanego w odległości:",
+        "odpowiedzi": {
+            "A": "mniejszej niż 10 cm",
+            "B": "mniejszej niż 20 cm",
+            "C": "wymienione osłony osobiste stosuje się zawsze, niezależnie od odległości"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 61,
+        "treść": "Lekarz wykonujący zabiegi radioterapeutyczne informuje o przebiegu leczenia:",
+        "odpowiedzi": {
+            "A": "pacjenta i lekarza prowadzącego pacjenta",
+            "B": "w szczególnych przypadkach inne osoby",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 62,
+        "treść": "Procedury z zakresu radiologii zabiegowej może wykonywać:",
+        "odpowiedzi": {
+            "A": "lekarz radiolog",
+            "B": "technik elektroradiologii",
+            "C": "lekarz posiadający specjalizację w dziedzinie, w której jest ona stosowana"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 63,
+        "treść": "Rentgenowskie badania stomatologiczne mogą wykonywać:",
+        "odpowiedzi": {
+            "A": "lekarz dentysta, technik elektroradiologii",
+            "B": "lekarz dentysta, technik elektroradiologii, dyplomowana pielęgniarka",
+            "C": "lekarz dentysta, technik elektroradiologii, inspektor ochrony radiologicznej"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 64,
+        "treść": "Testy specjalistyczne wykonują:",
+        "odpowiedzi": {
+            "A": "laboratoria badawcze posiadające akredytację",
+            "B": "laboratoria upoważnione przez Państwowego Wojewódzkiego Inspektora Sanitarnego",
+            "C": "pracownicy upoważnieni do wykonywania procedur radiologicznych"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 65,
+        "treść": "Samodzielnie technicy elektroradiologii są uprawnieni do wykonywania:",
+        "odpowiedzi": {
+            "A": "radiografii i densytometrii kości",
+            "B": "wszystkich procedur rentgenodiagnostycznych",
+            "C": "radiologii zabiegowej"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 66,
+        "treść": "Kopię sprawozdania z audytu zewnętrznego przekazuje się do:",
+        "odpowiedzi": {
+            "A": "Państwowego Wojewódzkiego Inspektora Sanitarnego",
+            "B": "Głównego Inspektora Sanitarnego",
+            "C": "Konsultanta Wojewódzkiego w dziedzinie właściwej do przeprowadzanego audytu"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 67,
+        "treść": "W rentgenodiagnostycznych badaniach stomatologicznych wewnątrzustnych należy stosować błony o czułości (wg klasyfikacji ISO):",
+        "odpowiedzi": {
+            "A": "E i F",
+            "B": "M",
+            "C": "wg uznania lekarza dentysty"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 68,
+        "treść": "Bezpieczna realizacja teleradioterapii wymaga w przypadku radykalnego i paliatywnego leczenia:",
+        "odpowiedzi": {
+            "A": "uczestniczenia lekarza specjalisty radioterapii w czasie pierwszego napromieniania realizowanego według przygotowanego planu leczenia",
+            "B": "kontroli klinicznej pacjenta po każdym seansie napromieniania",
+            "C": "bezwzględnego udziału fizyka medycznego w czasie napromieniania"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 69,
+        "treść": "Zapisy dotyczące spraw związanych z ochroną radiologiczną pacjenta zawiera:",
+        "odpowiedzi": {
+            "A": "ustawa z dnia 29 listopada 2000 r. PRAWO ATOMOWE",
+            "B": "akty wykonawcze do ww. ustawy",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 70,
+        "treść": "Testy podstawowe wykonywane są przez:",
+        "odpowiedzi": {
+            "A": "kierownika jednostki ochrony zdrowia",
+            "B": "inspektora ochrony radiologicznej",
+            "C": "pracowników jednostki ochrony zdrowia uprawnionych do obsługi urządzeń rtg"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 71,
+        "treść": "Kliniczny audyt zewnętrzny jest prowadzony na wniosek:",
+        "odpowiedzi": {
+            "A": "kierownika jednostki ochrony zdrowia",
+            "B": "właściwego Konsultanta Wojewódzkiego",
+            "C": "właściwej komisji do spraw procedur i audytów klinicznych zewnętrznych"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 72,
+        "treść": "W radiologii interwencyjnej istnieje obowiązek stosowania dozymetrii indywidualnej dla operatorów poprzez stosowanie:",
+        "odpowiedzi": {
+            "A": "dozymetrów kasetowych umieszczonych pod fartuchem",
+            "B": "dozymetrów pierścionkowych umieszczonych na palcu ręki",
+            "C": "obydwu rodzajów dozymetrów jednocześnie"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 73,
+        "treść": "Kliniczne audyty wewnętrzne przeprowadza się na pisemne polecenie:",
+        "odpowiedzi": {
+            "A": "inspektora sanitarnego",
+            "B": "kierownika pracowni rtg",
+            "C": "kierownika jednostki ochrony zdrowia"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 74,
+        "treść": "Wysokość gabinetu rtg nie może być mniejsza niż:",
+        "odpowiedzi": {
+            "A": "2.2 m",
+            "B": "2.5 m",
+            "C": "3 m"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 75,
+        "treść": "Powierzchnia gabinetu mammograficznego lub rentgenowskiego gabinetu stomatologicznego, jeśli nie wykonuje się w nim zabiegów stomatologicznych, powinna wynosić co najmniej:",
+        "odpowiedzi": {
+            "A": "8 m²",
+            "B": "12 m²",
+            "C": "15 m²"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+    "index": 76,
+    "treść": "Zgodę na badania przesiewowe wydaje:",
+    "odpowiedzi": {
+      "A": "Minister Zdrowia",
+      "B": "Główny Inspektor Sanitarny",
+      "C": "właściwy Konsultant Wojewódzki"
+    },
+    "poprawna_odpowiedź": "A"
+  },
+  {
+    "index": 77,
+    "treść": "Wentylacja w gabinecie rtg powinna zapewniać:",
+    "odpowiedzi": {
+      "A": "1,5-krotną wymianę/godz.",
+      "B": "2,0-krotną wymianę/godz.",
+      "C": "3,0-krotną wymianę/godz."
+    },
+    "poprawna_odpowiedź": "A"
+  },
+  {
+    "index": 78,
+    "treść": "Badania kobiet w ciąży z zakresu radiologii zabiegowej prowadzi się:",
+    "odpowiedzi": {
+      "A": "w zależności od okresu ciąży",
+      "B": "dla ratowania zdrowia i życia matki",
+      "C": "po uzyskaniu pisemnej zgody pacjentki"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 79,
+    "treść": "O wyborze sposobu prowadzenia kontroli dozymetrycznej (indywidualna kontrola dawek promieniowania lub kontrola dozymetryczna środowiska pracy) decyduje:",
+    "odpowiedzi": {
+      "A": "kierownik (właściciel) jednostki organizacyjnej",
+      "B": "inspektor ochrony radiologicznej",
+      "C": "Wojewódzki Inspektor Sanitarny"
+    },
+    "poprawna_odpowiedź": "C"
+  },
+  {
+    "index": 80,
+    "treść": "W książeczce zdrowia należy odnotować badania rtg pacjentów którzy:",
+    "odpowiedzi": {
+      "A": "nie ukończyli 10 lat",
+      "B": "nie ukończyli 16 lat",
+      "C": "nie ukończyli 18 lat"
+    },
+    "poprawna_odpowiedź": "C"
+  },
+     {
+        "index": 81,
+        "treść": "Napięcie na lampie rentgenowskiego aparatu stomatologicznego do zdjęć wewnątrzustnych wynosi:",
+        "odpowiedzi": {
+            "A": "60-70 kVp",
+            "B": "70-100 kVp",
+            "C": "100-120 kVp"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 82,
+        "treść": "Zezwolenie na uruchomienie i stosowanie aparatu rtg do celów diagnostyki medycznej wydaje:",
+        "odpowiedzi": {
+            "A": "Główny Inspektor Sanitarny",
+            "B": "Państwowy Wojewódzki Inspektor Sanitarny",
+            "C": "Powiatowy Inspektor Sanitarny"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 83,
+        "treść": "Obowiązek ukończenia kursu z dziedziny ochrony radiologicznej pacjenta dotyczy:",
+        "odpowiedzi": {
+            "A": "całego personelu medycznego jednostki organizacyjnej",
+            "B": "osób wykonujących i nadzorujących wykonywanie badań i zabiegów leczniczych przy użyciu promieniowania rentgenowskiego",
+            "C": "osób kierujących na badania z wykorzystaniem promieniowania jonizującego"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 84,
+        "treść": "Akty wykonawcze do ustawy PRAWO ATOMOWE stanowią rozporządzenia:",
+        "odpowiedzi": {
+            "A": "Rady Ministrów",
+            "B": "Ministra Zdrowia",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 85,
+        "treść": "W brachyterapii realizowanej za pomocą urządzenia typu MicroSelectron HDR wyposażonego w źródło Ir-192 wykorzystuje się emitowane przez to źródło promieniowanie:",
+        "odpowiedzi": {
+            "A": "alfa",
+            "B": "beta",
+            "C": "gamma"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 86,
+        "treść": "Zabrania się stosowania fluoroskopii:",
+        "odpowiedzi": {
+            "A": "u osób poniżej 16 roku życia",
+            "B": "bez wzmacniacza obrazu",
+            "C": "u kobiet karmiących piersią"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 87,
+        "treść": "Odległość ogniska lampy rtg od najbliższej ściany, wyłączając aparaty stomatologiczne i do densytometrii kostnej, powinna wynosić co najmniej:",
+        "odpowiedzi": {
+            "A": "1.0 m",
+            "B": "1.5 m",
+            "C": "2.0 m"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 88,
+        "treść": "Kobieta karmiąca piersią nie może być zatrudniona:",
+        "odpowiedzi": {
+            "A": "w pracowni mammograficznej",
+            "B": "w pracowni radiologii zabiegowej",
+            "C": "w warunkach narażenia na skażenia promieniotwórcze"
+        },
+        "poprawna_odpowied_ź": "C"
+    },
+    {
+        "index": 89,
+        "treść": "Iloczyn prądowo-czasowy [mAs] to:",
+        "odpowiedzi": {
+            "A": "iloczyn natężenia prądu anodowego lampy [mA] i czasu ekspozycji [s]",
+            "B": "iloczyn natężenia prądu anodowego lampy [mA] i tygodniowego czasu pracy lampy [h]",
+            "C": "stosunek natężenia prądu anodowego lampy [mA] do czasu ekspozycji [s]"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 90,
+        "treść": "Zgodę na pracę w warunkach narażenia na promieniowanie jonizujące uprawniony lekarz wydaje gdy pracownik:",
+        "odpowiedzi": {
+            "A": "przekroczy którąkolwiek z dawek granicznych",
+            "B": "pochłonie dawkę 50 mSv/rok",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 91,
+        "treść": "Zaliczenia pracowników zatrudnionych w warunkach narażenia do kategorii A lub B dokonuje:",
+        "odpowiedzi": {
+            "A": "kierownik jednostki organizacyjnej",
+            "B": "kierownik pracowni rentgenowskiej",
+            "C": "inspektor ochrony radiologicznej"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 92,
+        "treść": "Odległość między ogniskiem lampy a ciałem pacjenta w chirurgii nie powinna być mniejsza od:",
+        "odpowiedzi": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "30 cm"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 93,
+        "treść": "Zabronione jest stosowanie do celów diagnostycznych oraz leczniczych jodków znakowanych jodem-131 i jodem-125:",
+        "odpowiedzi": {
+            "A": "u małych dzieci",
+            "B": "u kobiet w ciąży po 8 tygodniach od zapłodnienia oraz w szczególnych wypadkach w dowolnym okresie ciąży",
+            "C": "u osób poniżej 16 roku życia"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 94,
+        "treść": "Wentylacja w ciemni rtg powinna zapewnić:",
+        "odpowiedzi": {
+            "A": "1.5-krotną wymianę/godz",
+            "B": "2-krotną wymianę/godz",
+            "C": "3-krotną wymianę/godz"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 95,
+        "treść": "Pracownikom kategorii A okresowe badania lekarskie prowadzi się:",
+        "odpowiedzi": {
+            "A": "co 3 miesiące",
+            "B": "co najmniej raz w roku",
+            "C": "wg uznania właściwego lekarza"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 96,
+        "treść": "Wielkość dawki promieniowania, którą otrzymuje pacjent w trakcie badania zależy od:",
+        "odpowiedzi": {
+            "A": "rodzaju badania i techniki jego wykonania",
+            "B": "wielkości i tuszy pacjenta oraz jakości stosowanej aparatury rentgenowskiej",
+            "C": "odpowiedzi A i B są poprawne"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 97,
+        "treść": "Certyfikat potwierdzający ukończenie kursu w zakresie ochrony radiologicznej pacjenta i zdanie egzaminu ważny jest:",
+        "odpowiedzi": {
+            "A": "3 lata",
+            "B": "5 lat",
+            "C": "bezterminowo"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 98,
+        "treść": "W jaki sposób grubość napromienionej tkanki wpływa na promieniowanie jonizujące w pacjencie?",
+        "odpowiedzi": {
+            "A": "grubsza tkanka zwiększa poziom promieniowania miękkiego",
+            "B": "czym grubsza tkanka, tym większa ilość powstającego promieniowania rozproszonego",
+            "C": "proporcjonalnie do grubości tkanki rośnie twardość promieniowania w wiązce pierwotnej"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 99,
+        "treść": "Kasetowy dozymetr indywidualny powinien być umieszczony:",
+        "odpowiedzi": {
+            "A": "na fartuchu ochronnym po lewej stronie klatki piersiowej",
+            "B": "pod fartuchem ochronnym po lewej stronie klatki piersiowej",
+            "C": "wg uznania operatora aparatu rtg"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 100,
+        "treść": "Uprawnienia inspektora ochrony radiologicznej w pracowniach rtg do celów diagnostyki medycznej wydaje:",
+        "odpowiedzi": {
+            "A": "Wojewoda",
+            "B": "Państwowy Wojewódzki Inspektor Sanitarny",
+            "C": "Główny Inspektor Sanitarny"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 101,
+        "treść": "Po wyłączeniu napięcia na lampie rtg promieniowanie X zanika:",
+        "odpowiedzi": {
+            "A": "natychmiast",
+            "B": "po 10-20 s, w zależności od poziomu napięcia",
+            "C": "po 2-3 min, w zależności od tuszy pacjenta"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 102,
+        "treść": "Podczas wykonywania stomatologicznych zdjęć wewnątrzustnych:",
+        "odpowiedzi": {
+            "A": "należy stosować dla pacjenta fartuch ochronny z kołnierzem osłaniającym tarczycę",
+            "B": "należy stosować dla pacjenta fartuch ochronny z dodatkową osłoną na gonady",
+            "C": "należy stosować fartuch ochronny tylko dla osób poniżej 16 roku życia"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 103,
+        "treść": "Prawidłowo prowadzona analiza zdjęć odrzuconych:",
+        "odpowiedzi": {
+            "A": "obejmuje wszystkie zdjęcia odrzucone i powtórzone oraz umożliwia wskazanie źródła błędu",
+            "B": "obejmuje tylko wszystkie zdjęcia odrzucone",
+            "C": "opiera się na testach parametrów aparatury"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 104,
+        "treść": "Zgoda na udzielanie świadczeń zdrowotnych z zakresu badań rentgenodiagnostycznych nie jest wymagana dla:",
+        "odpowiedzi": {
+            "A": "badań tomograficznych",
+            "B": "badań mammograficznych",
+            "C": "badań stomatologicznych"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 105,
+        "treść": "Do przeprowadzania procedur z zakresu radiologii zabiegowej stosuje się:",
+        "odpowiedzi": {
+            "A": "dowolny jezdny system rentgenowski wyposażony w ramię C",
+            "B": "wyłącznie aparaturę przeznaczoną do tego celu, z wyposażeniem zapewniającym właściwą ochronę pacjenta i personelu przed promieniowaniem jonizującym",
+            "C": "aparaty przyłóżkowe"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 106,
+        "treść": "Największą dawkę promieniowania X pochłonie pacjent w trakcie wykonywania:",
+        "odpowiedzi": {
+            "A": "zdjęcia płuc",
+            "B": "zdjęcia kręgosłupa lędźwiowego",
+            "C": "pełnego skanu w tomografii komputerowej"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 107,
+        "treść": "W aparatach mammograficznych napięcie na lampie rtg wynosi:",
+        "odpowiedzi": {
+            "A": "20-50 kVp",
+            "B": "50-100 kVp",
+            "C": "100-150 kVp"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 108,
+        "treść": "Prawidłowe stosowanie techniki obrazowania cyfrowego w rentgenodiagnostyce:",
+        "odpowiedzi": {
+            "A": "zwiększa dawkę promieniowania, na jaką narażony jest pacjent",
+            "B": "zmniejsza dawkę promieniowania, na jaką narażony jest pacjent",
+            "C": "nie ma wpływu na dawkę promieniowania otrzymywaną przez pacjenta"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 109,
+        "treść": "Odczyty dozymetrów indywidualnych, prowadzone przez upoważnione instytucje, wykonywane są:",
+        "odpowiedzi": {
+            "A": "minimum raz na kwartał",
+            "B": "raz na pół roku",
+            "C": "raz w roku"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 110,
+        "treść": "Dawka mierzona przy stałej wartości napięcia wraz ze wzrostem obciążenia prądowo-czasowego (mAs):",
+        "odpowiedzi": {
+            "A": "rośnie",
+            "B": "nie zmienia się",
+            "C": "maleje"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 111,
+        "treść": "Zdjęcia kostne w porównaniu ze zdjęciami mammograficznymi wykonujemy stosując napięcie na lampie rtg:",
+        "odpowiedzi": {
+            "A": "niższe",
+            "B": "wyższe",
+            "C": "napięcie nie ma wpływu na wynik radiogramu"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 112,
+        "treść": "Do kategorii narażenia A kwalifikuje się pracowników narażonych na dawkę skuteczną:",
+        "odpowiedzi": {
+            "A": "przekraczającą 6 mSv/rok",
+            "B": "przekraczającą 20 mSv/rok",
+            "C": "przekraczającą 100 mSv/rok"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 113,
+        "treść": "System Zarządzania Jakością w pracowniach radiologicznych obowiązuje:",
+        "odpowiedzi": {
+            "A": "cały personel pracowni",
+            "B": "lekarzy radiologów i techników elektroradiologii",
+            "C": "pacjentów poddawanych diagnostyce"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 114,
+        "treść": "W trakcie diagnostyki rentgenowskiej:",
+        "odpowiedzi": {
+            "A": "może dojść do skażenia promieniotwórczego pacjenta",
+            "B": "może dojść do skażenia promieniotwórczego otoczenia aparatu rtg",
+            "C": "nie mamy do czynienia ze źródłami izotopowymi, które mogą powodować skażenia promieniotwórcze"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 115,
+        "treść": "Ryzyko powstania wad rozwojowych płodu jest największe gdy zostanie on napromieniony w:",
+        "odpowiedzi": {
+            "A": "2-6 tygodniu",
+            "B": "6-9 miesiącu",
+            "C": "wiek zarodka nie ma znaczenia"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 116,
+        "treść": "Zwiększenie pola napromienienia w trakcie rentgenowskiego badania diagnostycznego nie ma wpływu na:",
+        "odpowiedzi": {
+            "A": "skład energetyczny wiązki",
+            "B": "dawkę, jaką pochłonie pacjent",
+            "C": "dawkę, na jaką będzie narażony personel pracowni rtg"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 117,
+        "treść": "Celem audytu klinicznego jest:",
+        "odpowiedzi": {
+            "A": "uzupełnienie dokumentacji medycznej",
+            "B": "polepszenie jakości udzielanych pacjentowi świadczeń zdrowotnych",
+            "C": "sprawdzenie kompetencji personelu medycznego"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 118,
+        "treść": "Dawki graniczne dla osób zawodowo narażonych na promieniowanie określają ryzyko wystąpienia negatywnych skutków ekspozycji zawodowej jako:",
+        "odpowiedzi": {
+            "A": "zerowe",
+            "B": "bardzo małe",
+            "C": "istotne"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 119,
+        "treść": "Teren kontrolowany, to miejsce pracy:",
+        "odpowiedzi": {
+            "A": "gdzie istnieje możliwość otrzymania dawek określonych dla pracowników kategorii A (powyżej 6 mSv/rok) lub mogą występować duże zmiany mocy dawki promieniowania jonizującego",
+            "B": "kontrolowane przez inspektora ochrony radiologicznej",
+            "C": "gdzie istnieje możliwość otrzymania dawek określonych dla pracowników kategorii B (powyżej 1 mSv/rok)"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 120,
+        "treść": "Jaki procent energii powstającej na anodzie lampy rentgenowskiej, to promieniowanie X ?",
+        "odpowiedzi": {
+            "A": "ok. 1-5 %",
+            "B": "około 30%",
+            "C": "około 90%"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 121,
+        "treść": "W radiologii zabiegowej obowiązkowym wyposażeniem aparatu rtg jest:",
+        "odpowiedzi": {
+            "A": "rejestrator dawki",
+            "B": "miernik czasu ekspozycji",
+            "C": "rejestrator dawki, miernik czasu ekspozycji, układ zapamiętywania ostatniego obrazu"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 122,
+        "treść": "Największą dawkę w przeliczeniu na całe ciało pacjenta otrzyma w trakcie:",
+        "odpowiedzi": {
+            "A": "wykonywania zdjęcia zęba trzonowego dolnego",
+            "B": "badania mammograficznego",
+            "C": "tomografii jamy brzusznej"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+    {
+        "index": 123,
+        "treść": "Jeden bekerel [Bq] jest to:",
+        "odpowiedzi": {
+            "A": "jeden rozpad jądra w próbce na sekundę",
+            "B": "jeden rozpad w próbce na godzinę",
+            "C": "1 000 rozpadów w próbce na sekundę"
+        },
+        "poprawna_odpowiedź": "A"
+    },
+    {
+        "index": 124,
+        "treść": "W celu dostosowania działań i środków ochrony radiologicznej pracowników do wielkości i rodzajów zagrożeń, podział lokalizacji miejsc pracy na tereny kontrolowane i nadzorowane wprowadza:",
+        "odpowiedzi": {
+            "A": "inspektor ochrony radiologicznej",
+            "B": "kierownik (właściciel) jednostki organizacyjnej",
+            "C": "osobą dokonująca ekspozycji"
+        },
+        "poprawna_odpowiedź": "B"
+    },
+    {
+        "index": 125,
+        "treść": "Energia charakterystycznego promieniowania rentgenowskiego zależy od:",
+        "odpowiedzi": {
+            "A": "materiału, z jakiego zbudowana jest katoda",
+            "B": "napięcia między anodą i katodą",
+            "C": "materiału z jakiego zbudowana jest anoda"
+        },
+        "poprawna_odpowiedź": "C"
+    },
+      {
+    "index": 126,
+    "treść": "Projekty badawcze z użyciem promieniowania jonizującego nie mogą być prowadzone z udziałem:",
+    "odpowiedzi": {
+      "A": "pacjentów",
+      "B": "kobiet w ciąży i młodocianych",
+      "C": "ochotników"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 127,
+    "treść": "Testy eksploatacyjne dzielą się na:",
+    "odpowiedzi": {
+      "A": "odbiorcze i specjalistyczne",
+      "B": "podstawowe i specjalistyczne",
+      "C": "akceptacyjne i podstawowe"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 128,
+    "treść": "Zezwolenie na uruchomienie i stosowanie aparatu rtg do celów diagnostyki medycznej wydaje:",
+    "odpowiedzi": {
+      "A": "Izba Lekarska",
+      "B": "Główny Inspektor Sanitarny",
+      "C": "Państwowy Wojewódzki Inspektor Sanitarny"
+    },
+    "poprawna_odpowiedź": "C"
+  },
+  {
+    "index": 129,
+    "treść": "Skierowanie na określone badania z zastosowaniem promieniowania jonizującego może być wystawione:",
+    "odpowiedzi": {
+      "A": "zawsze, niezależnie od okoliczności",
+      "B": "po upewnieniu się, że inne alternatywne, nieiwazyjne i nienarażające na działanie promieniowania metody, a także wcześniej wykonane badania nie mogą dostarczyć równoważnych informacji",
+      "C": "na wniosek lekarza radiologa, za pisemną zgodą pacjenta"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 130,
+    "treść": "Gabinety z diagnostycznymi aparatami rentgenowskimi są wyposażone w ostrzegawczą sygnalizację świetlną umieszczoną nad drzwiami do gabinetu. Przepisu nie stosuje się gdy:",
+    "odpowiedzi": {
+      "A": "ekspozycja jest wykonywana zza jednych drzwi prowadzących do gabinetu rtg",
+      "B": "w gabinecie rtg stosowany jest aparat rtg służący do diagnostyki stomatologicznej lub służący wyłącznie do densytometrii kości",
+      "C": "obydwa odpowiedzi są poprawne"
+    },
+    "poprawna_odpowiedź": "C"
+  },
+  {
+    "index": 131,
+    "treść": "W ekspozycji medycznej, w odróżnieniu od ekspozycji zawodowej i środowiskowej, nie obowiązują dawki graniczne. Na potrzeby ochrony radiologicznej pacjentów wprowadzono poziomy referencyjne, które określają:",
+    "odpowiedzi": {
+      "A": "górne poziomy zakresu dawek dla poszczególnych badań lub aktywności radiofarmaceutyków, które nie powinny być przekraczane",
+      "B": "górne poziomy zakresu dawek dla poszczególnych badań lub aktywności radiofarmaceutyków, bez istotnego uzasadnienia względami medycznymi",
+      "C": "poziomy zakresu dawek w odniesieniu do pacjentów pediatrycznych"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 132,
+    "treść": "Osłony stałe w budynkach mieszkalnych projektuje się tak, aby zabezpieczały ludność przed otrzymaniem dawki efektywnej wynoszącej:",
+    "odpowiedzi": {
+      "A": "0,1 mSv/rok",
+      "B": "0,5 mSv/rok",
+      "C": "1 mSv/rok"
+    },
+    "poprawna_odpowiedź": "A"
+  },
+  {
+    "index": 133,
+    "treść": "Największa część dawki promieniowania jonizującego, pochłoniętą w ciągu roku przez przeciętnego obywatela cywilizowanego kraju, pochodzi od:",
+    "odpowiedzi": {
+      "A": "od izotopów promieniotwórczych występujących w przyrodzie",
+      "B": "ekspozycji medycznej",
+      "C": "kosmosu"
+    },
+    "poprawna_odpowiedź": "A"
+  },
+  {
+    "index": 134,
+    "treść": "Wady genetyczne indukowane promieniowaniem jonizującym:",
+    "odpowiedzi": {
+      "A": "występują u osoby napromienowanej",
+      "B": "występują u potomstwa osoby napromienowanej",
+      "C": "występują u osoby napromienowanej i u jej potomstwa"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 135,
+    "treść": "Audyt kliniczny, to:",
+    "odpowiedzi": {
+      "A": "systematyczna kontrola lub przegląd medycznych procedur radiologicznych",
+      "B": "okresowa kontrola poprawności wykonywania procedur medycznych w pracowni rtg",
+      "C": "wyrywkowa kontrola poprawności wykonywania testów podstawowych parametrów fizycznych aparatury rtg"
+    },
+    "poprawna_odpowiedź": "A"
+  },
+  {
+    "index": 136,
+    "treść": "Zastosowanie radioterapii u kobiet w ciąży wynikające z rozpoznania nowotworu złośliwego i braku zadowalających alternatywnych metod postępowania nie wymaga:",
+    "odpowiedzi": {
+      "A": "lokalizacji guza w stosunku do zarodka lub płodu",
+      "B": "pisemnego skierowania na leczenie wystawionego przez lekarza posiadającego specjalizację w dziedzinie ginekologii",
+      "C": "stosowania osłon ochronnych gdy zarodek lub płód w przypadku, gdy odległość i położenie guza to umożliwia"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 137,
+    "treść": "Teren nadzorowany, to miejsce pracy:",
+    "odpowiedzi": {
+      "A": "nadzorowane przez pracownika WSSE",
+      "B": "gdzie istnieje możliwość otrzymania dawek określonych dla pracowników kategorii B (powyżej 1 mSv) i które nie zostało zaliczone do terenu kontrolowanego",
+      "C": "gdzie istnieje możliwość otrzymania dawek określonych dla pracowników kategorii A (powyżej 6 mSv/rok)"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 138,
+    "treść": "Technik elektroradiologii może użytkować aparat terapeutyczny, który miał awarię:",
+    "odpowiedzi": {
+      "A": "po naprawie aparatu przez serwis techniczny",
+      "B": "po otrzymaniu protokołu dopuszczenia aparatu do dalszej pracy podpisanego przez kierownika zakładu radioterapii",
+      "C": "po pomiarach sprawdzających wykonanych przez fizyka medycznego"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 139,
+    "treść": "Bezpieczne stosowanie promieniowania jonizującego w brachyterapii wymaga:",
+    "odpowiedzi": {
+      "A": "stosowania źródeł promieniotwórczych zawierających izotopy emitujące promieniowanie beta",
+      "B": "stosowania źródeł promieniotwórczych zawierających izotopy o krótkim okresie półrozpadu",
+      "C": "po skończonym leczeniu dodatkowej kontroli pacjenta za pomocą detektora promieniowania"
+    },
+    "poprawna_odpowiedź": "B"
+  },
+  {
+    "index": 140,
+    "treść": "Wentylacja w gabinecie rentgenowskim ma na celu:",
+    "odpowiedzi": {
+      "A": "usunięcie nadmiaru zjonizowanego powietrza",
+      "B": "względy higieniczno-sanitarne",
+      "C": "zapobieżenie skażeniu pracowni"
+    },
+    "poprawna_odpowiedź": "A"
+  }
+]
